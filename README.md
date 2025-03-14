@@ -1,6 +1,6 @@
 🚗 Driver Safety: ML-Based Performance Forecasting, Drowsiness Estimation, and Fatigue Diagnosis
 
-📌 Project Overview
+📌 Project Overview:
 This project focuses on enhancing driver safety by using machine learning models to estimate drowsiness and diagnose fatigue. By predicting a driver's state, we aim to prevent accidents caused by fatigue and drowsiness through real-time monitoring systems in vehicles. This model uses data from multiple physiological signals such as EEG (Electroencephalography), ECG (Electrocardiogram), EMG (Electromyography), as well as sensors, cameras, and user inputs to assess the risk of driver fatigue, offering predictive insights that can trigger timely alerts or interventions.
 
 Why it matters:
@@ -8,7 +8,7 @@ Driver fatigue contributes to a significant portion of road accidents. By monito
 
 
 
-🔧 Installation
+🔧 Installation:
 To get started, clone this repository and install the necessary dependencies:
 
 1. Clone the repository:
@@ -24,7 +24,7 @@ This will install all the libraries required for the project, including TensorFl
 
 
 
-📊 Dataset
+📊 Dataset:
 The dataset used in this project consists of driver behavior data collected from various physiological signals, including EEG, ECG, EMG, and vehicle data like speed and acceleration.
 
 Sources:
