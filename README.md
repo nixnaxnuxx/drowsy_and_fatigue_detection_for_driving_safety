@@ -32,8 +32,6 @@ Sources:
 1. EEG: Brain wave activity used to detect signs of drowsiness or attention levels.
 2. ECG: Heart rate and rhythm, which can indicate fatigue or stress.
 3. EMG: Muscle tension signals, often used to detect fatigue or physical strain in the driver.
-4. Drowsy Driver Dataset (e.g., Sleepy Driver Dataset)
-5. Fatigue Detection Dataset (e.g., Driver Fatigue Data)
 
 Preprocessing:
 1. Data Cleaning: Removed any missing or erroneous data.
