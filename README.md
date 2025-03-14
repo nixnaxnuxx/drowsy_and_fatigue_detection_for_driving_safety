@@ -13,7 +13,7 @@ To get started, clone this repository and install the necessary dependencies:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/driver-safety-ml.git
+git clone https://github.com/nixnaxnuxx/drowsy_and_fatigue_detection_for_driving_safety.git
 cd driver-safety-ml
 
 2. Install dependencies from the requirements.txt file:
